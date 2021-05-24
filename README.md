@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+These are all the stuffs I have messed with. :P
+
+Among these, some repositories are private or collaborated with specific people.
+
 <!--
 **ckrath/ckrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
