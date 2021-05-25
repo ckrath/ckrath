@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-These are all the stuffs I have messed with. :P
+These are all the stuffs I have messed with. 😄
 
 Among these, some repositories are private or collaborated with specific people.
 
