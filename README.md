@@ -4,6 +4,9 @@ These are all the stuffs I have messed with. 😄
 
 Among these, some repositories are private or collaborated with specific people.
 
+[![Image of https://github.com/ckrath/view-counter](https://github.com/ckrath/view-counter/blob/master/svg/profile/badge.svg)](https://github.com/ckrath/view-counter)
+
+
 <!--
 **ckrath/ckrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
